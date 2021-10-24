@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @opelletier
-- 👀 I’m interested in NetDevOps, Infrastructure as Code, PKI, Cellular, IPv6 – to name a few.
+- Interests: NetDevOps, Infrastructure as Code, PKI, Cellular, IPv6 – to name a few.
 <!---
 - 🌱 I’m currently learning every day.
 - 💞️ I’m looking to collaborate on ...
