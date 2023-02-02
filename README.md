@@ -1,4 +1,4 @@
-Interests: NetDevOps, Infrastructure as Code, PKI, Cellular, IPv6 – to name a few.
+Interests: NetDevOps, Infrastructure as Code, Automation, PKI, and IPv6.
 <!---
 - 🌱 I’m currently learning every day.
 - 💞️ I’m looking to collaborate on ...
